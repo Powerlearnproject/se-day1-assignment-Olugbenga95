@@ -23,6 +23,7 @@ Agile involves customers throughout the project while waterfall only involves cu
 
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+
 Software developer designs, code and troubleshoots
 QA engineer tests and report defects
 Project manager plans, allocate resources, monitor progress and stakeholder interaction.
